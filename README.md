@@ -1,2 +1,2 @@
-# Python!
-Actividades de desarrollo en Phyton
+# Python
+Actividades de desarrollo en Python
