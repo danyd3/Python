@@ -1,5 +1,10 @@
+#
+#Fecha       :19_10_2021
+#Author      :Daniel Alberto De Jesus (danyd3)
+#<dany7214dj@gmail.com
+#
 
-fecha_Nacimiento = input("Digite su año de nacimiento: ")
+fecha_Nacimiento = input("Digite su aÃ±o de nacimiento: ")
 diferencia = (2021 - int(fecha_Nacimiento))
 
 if diferencia >= 18:
